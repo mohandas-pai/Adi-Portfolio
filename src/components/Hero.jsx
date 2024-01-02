@@ -14,7 +14,7 @@ const Hero = () => {
         </div>
 
         <div className='flex flex-row justify-between items-center w-full'>
-          <h1 className='flex-1 font-poppins font-semibold ss:text-[62px] text-[32px] text-white ss:leading-[75px] leading-[75px]'>Aditya <br className='sm:block hidden '/> {" "} 
+          <h1 className='flex-1 font-poppins font-semibold ss:text-[62px] text-[42px] text-white ss:leading-[75px] leading-[75px]'>Aditya <br className='sm:block hidden '/> {" "} 
             <span className='text-gradient '>Udupa </span> {" "}
             
           </h1>
@@ -23,9 +23,9 @@ const Hero = () => {
           </div>
         </div>
 
-        <h1 className='font-poppins font-semibold ss:text-[22px] text-[52px] text-white ss:leading-[50px] leading-[50px] w-full'>
+        <h2 className='font-poppins font-semibold ss:text-[22px] text-[22px] text-white ss:leading-[50px] leading-[40px] w-full'>
           Airody Shivaramaiah
-        </h1>
+        </h2>
 
         <p className={`${styles.paragraph} max-w-[540px] mt-5`}>
         Aspiring Data Scientist passionate about uncovering insights from complex datasets to drive impactful decisions. Proficient in machine learning, data analysis, and eager to apply data-driven solutions to real-world challenges.
