@@ -11,6 +11,7 @@ import ml from "./ml.png"
 import code from "./code.png"
 import laptop from "./laptop.png"
 import adilogo from "./adilogo.png"
+import cv from "./AdityaUdupa_CV.pdf"
 
 export {
   arrowUp,
@@ -26,4 +27,5 @@ export {
   menu,
   linkedin,
   adilogo,
+  cv,
 };
