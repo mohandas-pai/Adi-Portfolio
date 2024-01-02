@@ -3,7 +3,7 @@ import quotes from "./quotes.svg";
 import menu from "./menu.svg";
 import close from "./close.svg";
 import arrowUp from "./arrow-up.svg";
-import datascience from "./DataScience.png";
+import datascience from "./Datascience.png";
 import linkedin from "./linkedin.svg"
 import softskill from "./softskill.png"
 import speaking from "./speaking.png"

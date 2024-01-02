@@ -56,10 +56,11 @@ const ContactMe = () => {
                         </form> */}
 
 					<div className="mt-12 flex-col">
+                    {/* <div className='absolute z-[0] w-[40%] h-[40%] -left-[20%] rounded-full blue__gradient'/> */}
                         <p className="text-secondary">Friedrich-von-Spee-Str. 1,33098 Paderborn</p>
 						<p className="text-secondary">+49 176 35649188</p>
 						<p  className="text-secondary underline mt-3 block">aditya.udupa@gmail.com</p>
-						<div className="flex mt-20 space-x-6">
+						<div className="flex mt-20 space-x-6 ">
                             <a href="https://de.linkedin.com/in/aditya-udupa" target="_blank">
                             <img  src={linkedin} alt="Icon" className='w-[32px] h-[32px] lg:w-12 lg:h-12 '/>								
 							</a>
